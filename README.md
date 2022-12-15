@@ -1,4 +1,4 @@
-# sulthan
+# Mohammed Sulthan
 
 <img  alt="coding" width="100%"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
 
